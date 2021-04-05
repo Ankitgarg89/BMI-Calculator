@@ -1,0 +1,44 @@
+body{
+    background-color: #ccffbd;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
+    color: #40394a;
+    text-decoration: underline;
+    margin-bottom: 40px;
+    margin-top: 20px;
+
+}
+
+.container{
+    background-color: #7eca9c;
+    width: 500px;
+    margin: auto;
+    padding: 1% 4% 1%;
+    border-radius: 2%;
+    color: white;
+}
+
+.para{
+    text-align: center;
+    color: rgb(63, 62, 62);
+    padding: 10px;
+}
+
+.guide{
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer{
+    text-align: center;
+    font-family: fantasy;
+    padding: 1% 5% 0;
+}
+
+.result{
+    text-align: center;
+}
